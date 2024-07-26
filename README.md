@@ -3,6 +3,8 @@
 Summary:
 Today you will learn who stakeholders are and what their importance is to IT systems, as well as techniques for identifying stakeholders and methods of working with them.
 
+💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
+
 ## Contents
 
 1. [Chapter I](#chapter-i) \
@@ -254,5 +256,3 @@ Here in the table is an example of description of interests, needs, problems of 
 1. Write down new concepts and terms found in the task into a glossary. 
 2. Find descriptions of concepts and terms and write them in a glossary. 
 3. Indicate your answers in the turn-in file ex03\_<product prefix>glossary.xlsx.
-
-💡 [Tap here](https://forms.yandex.ru/cloud/65b908aa90fa7b084763e9b8/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
