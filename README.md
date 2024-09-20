@@ -89,7 +89,7 @@ Stakeholders groups may include:
 2. Those who produce or provide goods or services for further distribution or application by the system: suppliers, intermediaries, producers;
 3. Those who receive goods or services through the system: buyers, clients;
 4. Those who set and monitor the rules and regulations for the operation of the system, the regulators: public authorities or institutions;
-5. Competitors - they are not always interested in making the system work, or work well, and can therefore negatively influence its design and operation;
+5. Competitors — they are not always interested in making the system work, or work well, and can therefore negatively influence its design and operation;
 6. Those who keep the system running and provide support to system users: administrators, support specialists.
 
 There are many techniques for working with stakeholders. In this project we will consider:
@@ -103,35 +103,35 @@ Each of the above groups is defined by their interests in relation to our system
 
 Some stakeholders can be grouped together because they perform the same functions in the system. Such groups are called roles (project role, role in the project). 
 
-A role is named after the primary function it performs. For example, a person who selects a product, adds it to the shopping basket, pays for it and receives it in one way or another is a Buyer. 
+A role is named after the primary function it performs. For example, a person who selects a product, adds it to the shopping cart, pays for it, and receives it in one way or another is a Buyer. 
 
-It is not recommended to call a project role by generalised names that collect several roles, including those that perform different functions (e.g. user), if there are separate groups that perform different functions in the system: buyers, sellers, merchandisers, accountants. 
+It is not recommended to call a project role by generalized names that collect several roles, including those that perform different functions (e.g. User), if there are separate groups that perform different functions in the system: buyers, sellers, merchandisers, accountants. 
 
-Each stakeholder (organization or person) can perform several roles, for example, a customer can also be a supplier, i.e.  if a supplier of goods/services has ordered the system to promote his goods/services, he is both a customer and a supplier. And a role can be played by several stakeholders (i.e. having the same interest, performing the same functions in the system). 
+Each stakeholder (organization or person) can perform several roles, e.g. a customer can also be a supplier, i.e. if a supplier of goods/services has ordered the system to promote his goods/services, he is both a customer and a supplier. And a role can be played by several stakeholders (i.e. having the same interest, performing the same functions in the system). 
 
 And sometimes a natural person (and even an organization) may, under the influence of circumstances, change its interests and the actions it performs, i.e. change its role in the project.
 
 ### 4. Stakeholder Directory <div id="34"></div>
 
-In order to identify all possible sources of requirements and not to lose their needs, a stakeholder directory should be created and maintained during the system development process. Stakeholders can be identified not only at the beginning of the project, but also later on. An up-to-date stakeholder register is needed throughout the project to avoid losing important stakeholders. It can include both users of the system and those who are interested in the system but do not work with it.
+In order to identify all possible sources of requirements and not lose their needs, a stakeholder directory should be created and maintained during the system development process. Stakeholders can be identified not only at the beginning of the project, but also later on. An up-to-date stakeholder register is needed throughout the project to avoid losing important stakeholders. It can include users of the system as well as those who are interested in the system but do not work with it.
 
-In order to analyze the importance of stakeholders for the project and to choose ways of working with them, it is recommended that such characteristics are collected in a directory:
+In order to analyze the importance of stakeholders for the project and to choose ways of working with them, it is recommended to collect such characteristics in a directory:
 
 1. Full name (if known); 
-2. Contact information (phone number, e-mail, nickname in social networks, where you agreed to communicate);
-3. Organization/company;
+2. Contact information (phone number, email, nickname in social networks where you have agreed to communicate);
+3. Organization/Company;
 4. Position;
 5. Location;
-6. Role in the project (if clear);
-7. Role scalability (one/ approximate number);
+6. Role in project (if clear);
+7. Role scalability (one/approximate number);
 8. Responsibility in the project (what is responsible for);
 9. Level of authority in the project (what is authorized to do/decide);
-10. Previous experience useful for the project;
+10. Previous experience useful to the project;
 11. Date the stakeholder was added to the directory.
 
-In the case of a small project, it is enough to select 2-4 characteristics that will help you in your work with stakeholders, for example, to organize stakeholders into areas of the onion diagram (see section 5. Onion diagram) and to define the role of users in the system. 
+In the case of a small project, it is sufficient to select 2-4 characteristics that will help you work with stakeholders, for example, to organize stakeholders into areas of the onion diagram (see Section 5. Onion Diagram) and to define the role of users in the system. 
 
-There are a few questions to help identify stakeholders. 
+There are several questions that can help you identify stakeholders. 
 
 Table 1. Stakeholder groups and questions to identify them
 
@@ -157,13 +157,13 @@ The onion diagram helps to identify stakeholders, their relationship to the prod
 
 The management of a chain of barbershops decided to implement an online booking system. The main objective is to develop the business by expanding the customer base through the possibility of online registration, as well as to reduce employee labour costs and manual labour by automatically informing customers through communication channels.
 
-Both registered and unregistered visitors can book an appointment on the website. When making an appointment, they can select the type of service: hairdressing or cosmetology, as well as the service itself, the master and the time from the available intervals. The system should provide automatic sending of reminders to clients through the communication channel chosen by the client (Telegram, WhatsApp, VK, sms) according to the schedule set by the manager. After receiving a service, the system offers the client to evaluate the service and write suggestions on how to improve the work.
+Both registered and unregistered visitors can book an appointment on the website. When making an appointment, they can select the type of service: hairdressing or cosmetology, as well as the service itself, the master and the time from the available intervals. The system should provide automatic sending of reminders to clients through the communication channel chosen by the client (Telegram, WhatsApp, VK, SMS) according to the schedule set by the manager. After receiving a service, the system offers the client to evaluate the service and write suggestions on how to improve the work.
 
 The schedule of masters and the services provided by each master should be entered by the manager, who may be more than one person. This person is also responsible for keeping the schedule up to date and adjusting it if necessary, communicating with customers manually, marking the service, charging and accepting payment, sending the payment data to the accounting department. The manager can also receive reports on completed services and view customer feedback.
 
 Moreover, the system must ensure that the sanitization of the premises of each barbershop is recorded, as required by the Sanitary and Epidemiological Inspectorate. The sanitization schedule is set by the manager, who also marks the completion after sanitization by the technician.
 
-Every master has the possibility to see the schedule and the date of his services, as well as the clients' reviews.
+Each master has the possibility to see the schedule and the date of his services, as well as the clients' reviews.
 
 ### Task 2. Delivery of Orders <div id="42"></div>
 
@@ -188,14 +188,14 @@ The courier should be able to view order information, select an order from those
 
 **Recommendations for the task:**
 
-1. Choose categories that you will need to:
+1. Select the categories you need:
    - Categorize by onion diagram area for future work;
    - Identify roles in the system.
-2. Choose directory categories based on the context of the task. You can take into account the list of stakeholder groups described in the section "Who is interested in the system?".
+2. Select directory categories based on the context of the task. You may want to consider the list of stakeholder groups described in the "Who is interested in the system?".
 3. Specify stakeholders in the directory.
-4. Rank the categories resulting from the conditions of the task.
-5. Enter the date the stakeholder was added to the directory. It should be a number of the project (Example: BSA 01).
-6. An example of part of the Task 1 stakeholder directory is shown in the table below.
+4. Rank the categories based on the conditions of the task.
+5. Enter the date the stakeholder was added to the directory. It should be a project number (example: BSA 01).
+6. An example of part of the stakeholder directory for Task 1 is shown in the table below.
 
 **Stakeholder Directory** using Task 1 as an example.
 
@@ -215,12 +215,12 @@ The courier should be able to view order information, select an order from those
 
 **For task 2:**
 
-1. Define stakeholder categories regarding interaction with our system (onion diagram layers). Define one of the categories as the attributes of the onion diagram layers.
+1. Define stakeholder categories in terms of interaction with our system (Onion Diagram layers). Define one of the categories as an attribute of the onion diagram layer.
 2. Identify stakeholders or groups (roles) related to each category (layer).
-3. Build an onion diagram, indicate the layers and stakeholders related to each layer.
-4. In addition, specify those stakeholders that are not specified in the task but may be common in life.
-5. When identifying stakeholders that are not in the directory, add them to the directory from Ex. 00.
-6. Indicate your answers in the turn-in file ex01\_<product prefix>\_onion.xxx (xxx — extension).
+3. Create an Onion Diagram, indicate the layers and stakeholders related to each layer.
+4. In addition, specify those stakeholders that are not specified in the task, but may be common in life.
+5. When identifying stakeholders that are not in the directory, add them to the directory of Ex. 00.
+6. Enter your answers in the turn-in file ex01\_<product prefix>\_onion.xxx (xxx — extension).
 
 **Recommendations for the task:**
 
