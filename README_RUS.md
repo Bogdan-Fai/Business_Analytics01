@@ -40,8 +40,8 @@
 
 1. Карл Вигерс, Джой Битти «Разработка требований к программному обеспечению» издание третье.
 2. BABOK v3 «Руководство к своду знаний по бизнес-анализу» IIBA.
-3. [Стейкхолдеры: зона особого внимания. / Хабр (habr.com)](https://habr.com/ru/post/127630/).
-4. [Кто такие стейкхолдеры и как ими управлять (calltouch.ru)](https://blog.calltouch.ru/stejkholdery-kto-eto-takie-kakie-byvayut-vidy-stejkholderov-proekta/).
+3. [Стейкхолдеры: зона особого внимания](https://habr.com/ru/post/127630/).
+4. [Кто такие стейкхолдеры и как ими управлять](https://blog.calltouch.ru/stejkholdery-kto-eto-takie-kakie-byvayut-vidy-stejkholderov-proekta/).
 
 ## Chapter II <div id="chapter-ii"></div>
 

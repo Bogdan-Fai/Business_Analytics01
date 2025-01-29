@@ -38,8 +38,8 @@ Every system (industrial, intellectual, cultural or IT) is built in someone else
 
 1. Karl Wiegers, Joy Beatty, "Software Requirements" 3rd edition.
 2. BABOK v3 «A Guide to the Business Analysis Body of Knowledge» IIBA.
-3. [Stakeholders: an area of special attention / Habr (habr.com)](https://habr.com/ru/post/127630/).
-4. [Who are stakeholders and how to manage them (calltouch.ru)](https://blog.calltouch.ru/stejkholdery-kto-eto-takie-kakie-byvayut-vidy-stejkholderov-proekta/).
+3. [Stakeholders: an area of special attention](https://habr.com/ru/post/127630/).
+4. [Who are stakeholders and how to manage them](https://blog.calltouch.ru/stejkholdery-kto-eto-takie-kakie-byvayut-vidy-stejkholderov-proekta/).
 
 ## Chapter II <div id="chapter-ii"></div>
 
